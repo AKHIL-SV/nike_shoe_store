@@ -1,4 +1,4 @@
-# 💠 nike_shopping_app! 
+# nike_shopping_app 💎
 
 # Flutter project.
 
